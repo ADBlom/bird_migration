@@ -2,7 +2,7 @@ from tqdm import tqdm
 import numpy as np
 from xarray import open_dataset
 import pandas as pd
-import models as m
+import model as m
 
 # Preparing the input files
 data_loc = '/Volumes/Untitled/ERA5_Data/'
